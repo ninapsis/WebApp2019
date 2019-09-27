@@ -1,0 +1,33 @@
+
+body {
+ background-image: url("http://pluspng.com/img-png/png-possum-book-online-now-and-save-up-to-15-off-397.png");
+ /*background-color: coral;*/
+ background-repeat: no-repeat;
+ background-position: 790px 160px;
+
+ 
+  font-family: Helvetica;
+
+ table { border: 2px solid black; caption-side: bottom; }
+  tr { font-style: italic; } 
+  td { background-color: yellow; text-align: center; width: 30%; }
+
+}
+
+ h1, h2
+ {
+ 	 font-size:30px;
+ 
+
+
+  color: rgba(485,161,0,0.5);
+  /*font-weight: bold; 
+  font-style: italic; 
+  text-shadow: 2px 2px #ff0000;*/
+
+  
+
+  blockquote { text-align: justify; }
+             { text-align: center; }
+   
+}
