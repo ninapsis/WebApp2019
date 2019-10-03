@@ -1,0 +1,78 @@
+
+body {
+ /*background-image: url("http://pluspng.com/img-png/png-possum-book-online-now-and-save-up-to-15-off-397.png");*/
+ background-image: url("https://selab.hanyang.ac.kr/courses/cse326/2019/labs/images/2/cse326bg.jpg");
+ background-color: #1D2475;
+ background-repeat: no-repeat;
+ background-position: top right;
+ font-family: Helvetica;
+ color: #939396;
+ }
+ 
+
+		table, td, th { border: 2px dotted black; caption-side: left;
+		border-collapse: collapse;}
+
+			/* tr { font-style: italic; } 
+			 td { background-color: yellow; text-align: center; width: 30%; }*/
+
+		img {
+		border-style: ridge; 
+		border-color: #F7931E;
+		border-width: medium;
+		}
+      
+		a{
+		text-decoration: none;
+	  			 color: #FF4F4F;
+		 }
+		 a:hover{
+		 	 color: white;
+			 text-decoration: underline;
+		 }
+
+		strong{
+	  			color: #FFF86B;
+		}
+
+	
+
+	p::first-letter {
+    text-transform: uppercase;
+    font-size: 150%;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 5px;
+	}
+	blockquote{ 
+				
+	            text-align: justify; 
+				text-align: left; 
+				color: #D1DFEB; }
+
+		dl	{
+			font-size:70%;
+			}
+		dt{
+			font-weight: bold;
+			color: #FFF86B;
+		  }
+		h3{
+			color: #F7931E;
+		  }
+
+		  ul{
+		  	  list-style-type: square;
+		  }
+
+		h1, h2{
+ 			font-size:40px;
+			text-shadow: 3px -3px green;
+			color: #F7931E;
+			/*font-weight: bold; 
+			font-style: italic; 
+			text-shadow: 2px 2px #ff0000;*/
+
+   
+   
+}
