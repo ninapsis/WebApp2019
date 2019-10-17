@@ -1,0 +1,41 @@
+body
+		{	
+			background-image: url("background.png");
+			background-width: 100%;
+			font-family: Verdana;
+			font-size: 8pt;
+			margin-left: auto;
+			margin-right: auto;
+			/*width: 100%;
+			position: absolute;*/
+			width: 800px;
+
+
+
+		}
+
+#All
+{
+	border: 4px gray solid;
+	border-radius: 20px;
+}
+
+		h1{
+		font-size: 24pt;
+		font-weight: bold;
+		text-shadow: 3px 3px #999999;
+		text-align: center;
+		}
+
+		#banner1
+{
+	
+		image-align: center;
+		background-image: url("bannerbg.png");
+		display: block;
+}
+#Poster
+{
+	float: right;
+}
+
